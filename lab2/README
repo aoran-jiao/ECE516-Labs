@@ -1,1 +1,0 @@
-This is our code for lab 2. Our automated pipeline could take in any picture, resize it to the correct dimensions based on the SWIM, and perform 2 tasks. For the baseline, we can imprint the image by translating the motor device, obtaining motor odometry from voltage. For the bonus section, we are able to achieve a rotating SWIM by displaying different patterns. 
